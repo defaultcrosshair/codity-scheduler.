@@ -1,4 +1,4 @@
-# Antigravity Distributed Job Scheduler
+# Codity.ai Distributed Job Scheduler
 
 A production-inspired, highly reliable relational database-backed distributed job scheduling platform. Built with **Node.js**, **TypeScript**, **Express**, **Prisma ORM**, and **SQLite**, with a clean, minimal, Google-style **React (Vite)** dashboard and real-time WebSocket telemetry.
 
